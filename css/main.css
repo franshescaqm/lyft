@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /*Estilos a header*/
 header{
@@ -39,5 +40,13 @@ ul{
 =======
 body{
   margin:0;
-  padding: 0;
+  padding:0;
 }
+footer{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #333447;
+  height: 651px;
+}
+>>>>>>> 79f7c7ddb6b6692bee2d535ab73d7ae5d4de42a4
