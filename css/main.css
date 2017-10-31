@@ -6,7 +6,7 @@ body{
   padding:0;
 }
 .container_introduction{
-  outline: 2px solid red;
+  /*outline: 2px solid red;*/
   width: 100%;
   display:block;
   background-image: url("../assets/images/hero.gif");
@@ -30,7 +30,7 @@ body{
   top: 25%;
 }
 .introduction{
-  outline: 1px solid blue;
+  /*outline: 1px solid blue;*/
   height: 534.05px;
 }
 
